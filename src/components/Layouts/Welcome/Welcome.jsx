@@ -6,7 +6,7 @@ export const Welcome = ({ ficha }) => {
   return (
     <>
       <h1>instrumento de evaluación</h1>
-      <h2>Ficha: {ficha} </h2>
+      <h2>Ficha: {ficha} 2722493 </h2>
       <button type="button"><a href='/Paint'>Ingresar</a> </button>
       
     </>
